@@ -1,0 +1,4 @@
+name: DrinkCraft
+version: '1.0'
+main: net.iicosahedra.drinkCraft.DrinkCraft
+api-version: '1.21'
